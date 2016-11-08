@@ -1,0 +1,2 @@
+#!/bin/bash
+rosrun object_recognition implicit_shape_model `rospack find object_recognition`/data/coke.stl/pcd/ism_train_cat.pcd 0 `rospack find object_recognition`/pcd/ism_train_horse.pcd 1 `rospack find object_recognition`/pcd/ism_train_lioness.pcd 2 `rospack find object_recognition`/pcd/ism_train_michael.pcd 3 `rospack find object_recognition`/pcd/ism_train_wolf.pcd 4 `rospack find object_recognition`/pcd/ism_test_cat.pcd 0
