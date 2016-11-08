@@ -2,75 +2,75 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" assignedExecutableTargets="true" buildAllGenerated="true">
     <generated>
-      <config projectName="pcl_recognition" targetName="geometry_msgs_generate_messages_cpp" />
-      <config projectName="pcl_recognition" targetName="tf_generate_messages_lisp" />
-      <config projectName="pcl_recognition" targetName="tf2_msgs_generate_messages_cpp" />
-      <config projectName="pcl_recognition" targetName="find_stool" />
-      <config projectName="pcl_recognition" targetName="object_recognition_kitchen" />
-      <config projectName="pcl_recognition" targetName="doxygen" />
-      <config projectName="pcl_recognition" targetName="actionlib_generate_messages_py" />
-      <config projectName="pcl_recognition" targetName="topic_tools_generate_messages_lisp" />
-      <config projectName="pcl_recognition" targetName="pcl_recognition" />
-      <config projectName="pcl_recognition" targetName="nodelet_generate_messages_lisp" />
-      <config projectName="pcl_recognition" targetName="dynamic_reconfigure_gencfg" />
-      <config projectName="pcl_recognition" targetName="nodelet_generate_messages_cpp" />
-      <config projectName="pcl_recognition" targetName="cluster_extraction" />
-      <config projectName="pcl_recognition" targetName="bond_generate_messages_py" />
-      <config projectName="pcl_recognition" targetName="actionlib_msgs_generate_messages_cpp" />
-      <config projectName="pcl_recognition" targetName="topic_tools_generate_messages_py" />
-      <config projectName="pcl_recognition" targetName="geometry_msgs_generate_messages_py" />
-      <config projectName="pcl_recognition" targetName="std_msgs_generate_messages_py" />
-      <config projectName="pcl_recognition" targetName="object_recognizer" />
-      <config projectName="pcl_recognition" targetName="bond_generate_messages_lisp" />
-      <config projectName="pcl_recognition" targetName="actionlib_generate_messages_cpp" />
-      <config projectName="pcl_recognition" targetName="_catkin_empty_exported_target" />
-      <config projectName="pcl_recognition" targetName="sensor_msgs_generate_messages_py" />
-      <config projectName="pcl_recognition" targetName="implicit_shape_model" />
-      <config projectName="pcl_recognition" targetName="tf_generate_messages_cpp" />
-      <config projectName="pcl_recognition" targetName="pcl_recognition_package" />
-      <config projectName="pcl_recognition" targetName="topic_tools_generate_messages_cpp" />
-      <config projectName="pcl_recognition" targetName="tf2_msgs_generate_messages_lisp" />
-      <config projectName="pcl_recognition" targetName="run_tests" />
-      <config projectName="pcl_recognition" targetName="correspondence_grouping" />
-      <config projectName="pcl_recognition" targetName="geometry_msgs_generate_messages_lisp" />
-      <config projectName="pcl_recognition" targetName="pcd_edit_tool" />
-      <config projectName="pcl_recognition" targetName="gtest_main" />
-      <config projectName="pcl_recognition" targetName="std_msgs_generate_messages_lisp" />
-      <config projectName="pcl_recognition" targetName="tests" />
-      <config projectName="pcl_recognition" targetName="roscpp_generate_messages_lisp" />
-      <config projectName="pcl_recognition" targetName="pcl_msgs_generate_messages_cpp" />
-      <config projectName="pcl_recognition" targetName="find_stool_coke" />
-      <config projectName="pcl_recognition" targetName="object_recognize_main" />
-      <config projectName="pcl_recognition" targetName="sensor_msgs_generate_messages_lisp" />
-      <config projectName="pcl_recognition" targetName="tf_generate_messages_py" />
-      <config projectName="pcl_recognition" targetName="pcl_basic" />
-      <config projectName="pcl_recognition" targetName="pcl_msgs_generate_messages_py" />
-      <config projectName="pcl_recognition" targetName="actionlib_msgs_generate_messages_lisp" />
-      <config projectName="pcl_recognition" targetName="bond_generate_messages_cpp" />
-      <config projectName="pcl_recognition" targetName="roscpp_generate_messages_cpp" />
-      <config projectName="pcl_recognition" targetName="rosgraph_msgs_generate_messages_lisp" />
-      <config projectName="pcl_recognition" targetName="actionlib_generate_messages_lisp" />
-      <config projectName="pcl_recognition" targetName="download_extra_data" />
-      <config projectName="pcl_recognition" targetName="sensor_msgs_generate_messages_cpp" />
-      <config projectName="pcl_recognition" targetName="actionlib_msgs_generate_messages_py" />
-      <config projectName="pcl_recognition" targetName="gtest" />
-      <config projectName="pcl_recognition" targetName="roscpp_generate_messages_py" />
-      <config projectName="pcl_recognition" targetName="rosgraph_msgs_generate_messages_cpp" />
-      <config projectName="pcl_recognition" targetName="nodelet_generate_messages_py" />
-      <config projectName="pcl_recognition" targetName="icp" />
-      <config projectName="pcl_recognition" targetName="pcl_ros_gencfg" />
-      <config projectName="pcl_recognition" targetName="clean_test_results_pcl_recognition" />
-      <config projectName="pcl_recognition" targetName="dynamic_reconfigure_generate_messages_cpp" />
-      <config projectName="pcl_recognition" targetName="tf2_msgs_generate_messages_py" />
-      <config projectName="pcl_recognition" targetName="pcl_msgs_generate_messages_lisp" />
-      <config projectName="pcl_recognition" targetName="std_msgs_generate_messages_cpp" />
-      <config projectName="pcl_recognition" targetName="pcl_lib" />
-      <config projectName="pcl_recognition" targetName="recognition_test" />
-      <config projectName="pcl_recognition" targetName="global_hypothesis_verification" />
-      <config projectName="pcl_recognition" targetName="clean_test_results" />
-      <config projectName="pcl_recognition" targetName="dynamic_reconfigure_generate_messages_lisp" />
-      <config projectName="pcl_recognition" targetName="rosgraph_msgs_generate_messages_py" />
-      <config projectName="pcl_recognition" targetName="dynamic_reconfigure_generate_messages_py" />
+      <config projectName="object_recognition" targetName="geometry_msgs_generate_messages_cpp" />
+      <config projectName="object_recognition" targetName="tf_generate_messages_lisp" />
+      <config projectName="object_recognition" targetName="tf2_msgs_generate_messages_cpp" />
+      <config projectName="object_recognition" targetName="find_stool" />
+      <config projectName="object_recognition" targetName="object_recognition_kitchen" />
+      <config projectName="object_recognition" targetName="doxygen" />
+      <config projectName="object_recognition" targetName="actionlib_generate_messages_py" />
+      <config projectName="object_recognition" targetName="topic_tools_generate_messages_lisp" />
+      <config projectName="object_recognition" targetName="object_recognition" />
+      <config projectName="object_recognition" targetName="nodelet_generate_messages_lisp" />
+      <config projectName="object_recognition" targetName="dynamic_reconfigure_gencfg" />
+      <config projectName="object_recognition" targetName="nodelet_generate_messages_cpp" />
+      <config projectName="object_recognition" targetName="cluster_extraction" />
+      <config projectName="object_recognition" targetName="bond_generate_messages_py" />
+      <config projectName="object_recognition" targetName="actionlib_msgs_generate_messages_cpp" />
+      <config projectName="object_recognition" targetName="topic_tools_generate_messages_py" />
+      <config projectName="object_recognition" targetName="geometry_msgs_generate_messages_py" />
+      <config projectName="object_recognition" targetName="std_msgs_generate_messages_py" />
+      <config projectName="object_recognition" targetName="object_recognizer" />
+      <config projectName="object_recognition" targetName="bond_generate_messages_lisp" />
+      <config projectName="object_recognition" targetName="actionlib_generate_messages_cpp" />
+      <config projectName="object_recognition" targetName="_catkin_empty_exported_target" />
+      <config projectName="object_recognition" targetName="sensor_msgs_generate_messages_py" />
+      <config projectName="object_recognition" targetName="implicit_shape_model" />
+      <config projectName="object_recognition" targetName="tf_generate_messages_cpp" />
+      <config projectName="object_recognition" targetName="object_recognition_package" />
+      <config projectName="object_recognition" targetName="topic_tools_generate_messages_cpp" />
+      <config projectName="object_recognition" targetName="tf2_msgs_generate_messages_lisp" />
+      <config projectName="object_recognition" targetName="run_tests" />
+      <config projectName="object_recognition" targetName="correspondence_grouping" />
+      <config projectName="object_recognition" targetName="geometry_msgs_generate_messages_lisp" />
+      <config projectName="object_recognition" targetName="pcd_edit_tool" />
+      <config projectName="object_recognition" targetName="gtest_main" />
+      <config projectName="object_recognition" targetName="std_msgs_generate_messages_lisp" />
+      <config projectName="object_recognition" targetName="tests" />
+      <config projectName="object_recognition" targetName="roscpp_generate_messages_lisp" />
+      <config projectName="object_recognition" targetName="pcl_msgs_generate_messages_cpp" />
+      <config projectName="object_recognition" targetName="find_stool_coke" />
+      <config projectName="object_recognition" targetName="object_recognize_main" />
+      <config projectName="object_recognition" targetName="sensor_msgs_generate_messages_lisp" />
+      <config projectName="object_recognition" targetName="tf_generate_messages_py" />
+      <config projectName="object_recognition" targetName="pcl_basic" />
+      <config projectName="object_recognition" targetName="pcl_msgs_generate_messages_py" />
+      <config projectName="object_recognition" targetName="actionlib_msgs_generate_messages_lisp" />
+      <config projectName="object_recognition" targetName="bond_generate_messages_cpp" />
+      <config projectName="object_recognition" targetName="roscpp_generate_messages_cpp" />
+      <config projectName="object_recognition" targetName="rosgraph_msgs_generate_messages_lisp" />
+      <config projectName="object_recognition" targetName="actionlib_generate_messages_lisp" />
+      <config projectName="object_recognition" targetName="download_extra_data" />
+      <config projectName="object_recognition" targetName="sensor_msgs_generate_messages_cpp" />
+      <config projectName="object_recognition" targetName="actionlib_msgs_generate_messages_py" />
+      <config projectName="object_recognition" targetName="gtest" />
+      <config projectName="object_recognition" targetName="roscpp_generate_messages_py" />
+      <config projectName="object_recognition" targetName="rosgraph_msgs_generate_messages_cpp" />
+      <config projectName="object_recognition" targetName="nodelet_generate_messages_py" />
+      <config projectName="object_recognition" targetName="icp" />
+      <config projectName="object_recognition" targetName="pcl_ros_gencfg" />
+      <config projectName="object_recognition" targetName="clean_test_results_object_recognition" />
+      <config projectName="object_recognition" targetName="dynamic_reconfigure_generate_messages_cpp" />
+      <config projectName="object_recognition" targetName="tf2_msgs_generate_messages_py" />
+      <config projectName="object_recognition" targetName="pcl_msgs_generate_messages_lisp" />
+      <config projectName="object_recognition" targetName="std_msgs_generate_messages_cpp" />
+      <config projectName="object_recognition" targetName="pcl_lib" />
+      <config projectName="object_recognition" targetName="recognition_test" />
+      <config projectName="object_recognition" targetName="global_hypothesis_verification" />
+      <config projectName="object_recognition" targetName="clean_test_results" />
+      <config projectName="object_recognition" targetName="dynamic_reconfigure_generate_messages_lisp" />
+      <config projectName="object_recognition" targetName="rosgraph_msgs_generate_messages_py" />
+      <config projectName="object_recognition" targetName="dynamic_reconfigure_generate_messages_py" />
     </generated>
   </component>
   <component name="CMakeSettings" AUTO_RELOAD="true" GENERATION_PASS_SYSTEM_ENVIRONMENT="true">
@@ -80,7 +80,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d868a31-aa90-407f-90f3-a09f68c4cc83" name="Default" comment="" />
-    <ignored path="pcl_recognition.iws" />
+    <ignored path="object_recognition.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -95,7 +95,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
-    <favorites_list name="pcl_recognition" />
+    <favorites_list name="object_recognition" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -174,7 +174,7 @@
         </entry>
       </file>
       <file leaf-file-name="object_recognizer.h" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/include/pcl_recognition/object_recognizer.h">
+        <entry file="file://$PROJECT_DIR$/include/object_recognition/object_recognizer.h">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
@@ -212,17 +212,17 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/include/pcl_utils/pcl_utils.h" />
-        <option value="$PROJECT_DIR$/src/pcl_recognition.cpp" />
+        <option value="$PROJECT_DIR$/src/object_recognition.cpp" />
         <option value="$PROJECT_DIR$/src/implicit_shape_model.cpp" />
         <option value="$PROJECT_DIR$/src/find_plane_pcd_file.cpp" />
-        <option value="$PROJECT_DIR$/include/pcl_recognition/pcl_recognition.h" />
+        <option value="$PROJECT_DIR$/include/object_recognition/object_recognition.h" />
         <option value="$PROJECT_DIR$/src/pcl_utils.cpp" />
         <option value="$PROJECT_DIR$/src/pcd_edit_tool.cpp" />
         <option value="$PROJECT_DIR$/src/correspondence_grouping.cpp" />
         <option value="$PROJECT_DIR$/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/src/object_recognition_kitchen.cpp" />
         <option value="$PROJECT_DIR$/src/object_recognize_main.cpp" />
-        <option value="$PROJECT_DIR$/include/pcl_recognition/object_recognizer.h" />
+        <option value="$PROJECT_DIR$/include/object_recognition/object_recognizer.h" />
         <option value="$PROJECT_DIR$/src/object_recognizer.cpp" />
       </list>
     </option>
@@ -268,35 +268,35 @@
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="pcl_recognition" />
+              <option name="myItemId" value="object_recognition" />
               <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="pcl_recognition" />
+              <option name="myItemId" value="object_recognition" />
               <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="pcl_recognition" />
+              <option name="myItemId" value="object_recognition" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="pcl_recognition" />
+              <option name="myItemId" value="object_recognition" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="pcl_recognition" />
+              <option name="myItemId" value="object_recognition" />
               <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="pcl_recognition" />
+              <option name="myItemId" value="object_recognition" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="pcl_recognition" />
+              <option name="myItemId" value="object_recognition" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -306,15 +306,15 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="pcl_recognition" />
+              <option name="myItemId" value="object_recognition" />
               <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="pcl_recognition" />
+              <option name="myItemId" value="object_recognition" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="pcl_recognition" />
+              <option name="myItemId" value="object_recognition" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -322,21 +322,21 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="pcl_recognition" />
+              <option name="myItemId" value="object_recognition" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="pcl_recognition" />
+              <option name="myItemId" value="object_recognition" />
               <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="pcl_recognition" />
+              <option name="myItemId" value="object_recognition" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="pcl_recognition" />
+              <option name="myItemId" value="object_recognition" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -346,11 +346,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="pcl_recognition" />
+              <option name="myItemId" value="object_recognition" />
               <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="pcl_recognition" />
+              <option name="myItemId" value="object_recognition" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -367,15 +367,15 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/include/pcl_recognition" />
+      <recent name="$PROJECT_DIR$/include/object_recognition" />
     </key>
   </component>
   <component name="RunManager" selected="Application.Build All">
-    <configuration default="true" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="pcl_recognition" TARGET_NAME="_catkin_empty_exported_target" CONFIG_NAME="Debug" TEST_MODE="SUITE_TEST">
+    <configuration default="true" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="object_recognition" TARGET_NAME="_catkin_empty_exported_target" CONFIG_NAME="Debug" TEST_MODE="SUITE_TEST">
       <envs />
       <method />
     </configuration>
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="pcl_recognition" TARGET_NAME="_catkin_empty_exported_target" CONFIG_NAME="Debug">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="object_recognition" TARGET_NAME="_catkin_empty_exported_target" CONFIG_NAME="Debug">
       <envs />
       <method />
     </configuration>
@@ -400,279 +400,279 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="_catkin_empty_exported_target" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="pcl_recognition" TARGET_NAME="_catkin_empty_exported_target" CONFIG_NAME="Debug">
+    <configuration default="false" name="_catkin_empty_exported_target" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="object_recognition" TARGET_NAME="_catkin_empty_exported_target" CONFIG_NAME="Debug">
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="actionlib_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="pcl_recognition" TARGET_NAME="actionlib_generate_messages_cpp" CONFIG_NAME="Debug">
+    <configuration default="false" name="actionlib_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="object_recognition" TARGET_NAME="actionlib_generate_messages_cpp" CONFIG_NAME="Debug">
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="actionlib_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="pcl_recognition" TARGET_NAME="actionlib_generate_messages_lisp" CONFIG_NAME="Debug">
+    <configuration default="false" name="actionlib_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="object_recognition" TARGET_NAME="actionlib_generate_messages_lisp" CONFIG_NAME="Debug">
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="actionlib_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="pcl_recognition" TARGET_NAME="actionlib_generate_messages_py" CONFIG_NAME="Debug">
+    <configuration default="false" name="actionlib_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="object_recognition" TARGET_NAME="actionlib_generate_messages_py" CONFIG_NAME="Debug">
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="actionlib_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="pcl_recognition" TARGET_NAME="actionlib_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
+    <configuration default="false" name="actionlib_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="object_recognition" TARGET_NAME="actionlib_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="actionlib_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="pcl_recognition" TARGET_NAME="actionlib_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
+    <configuration default="false" name="actionlib_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="object_recognition" TARGET_NAME="actionlib_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="actionlib_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="pcl_recognition" TARGET_NAME="actionlib_msgs_generate_messages_py" CONFIG_NAME="Debug">
+    <configuration default="false" name="actionlib_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="object_recognition" TARGET_NAME="actionlib_msgs_generate_messages_py" CONFIG_NAME="Debug">
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="bond_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="pcl_recognition" TARGET_NAME="bond_generate_messages_cpp" CONFIG_NAME="Debug">
+    <configuration default="false" name="bond_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="object_recognition" TARGET_NAME="bond_generate_messages_cpp" CONFIG_NAME="Debug">
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="bond_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="pcl_recognition" TARGET_NAME="bond_generate_messages_lisp" CONFIG_NAME="Debug">
+    <configuration default="false" name="bond_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="object_recognition" TARGET_NAME="bond_generate_messages_lisp" CONFIG_NAME="Debug">
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="bond_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="pcl_recognition" TARGET_NAME="bond_generate_messages_py" CONFIG_NAME="Debug">
+    <configuration default="false" name="bond_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="object_recognition" TARGET_NAME="bond_generate_messages_py" CONFIG_NAME="Debug">
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="clean_test_results" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="pcl_recognition" TARGET_NAME="clean_test_results" CONFIG_NAME="Debug">
+    <configuration default="false" name="clean_test_results" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="object_recognition" TARGET_NAME="clean_test_results" CONFIG_NAME="Debug">
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="clean_test_results_pcl_recognition" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="pcl_recognition" TARGET_NAME="clean_test_results_pcl_recognition" CONFIG_NAME="Debug">
+    <configuration default="false" name="clean_test_results_object_recognition" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="object_recognition" TARGET_NAME="clean_test_results_object_recognition" CONFIG_NAME="Debug">
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="download_extra_data" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="pcl_recognition" TARGET_NAME="download_extra_data" CONFIG_NAME="Debug">
+    <configuration default="false" name="download_extra_data" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="object_recognition" TARGET_NAME="download_extra_data" CONFIG_NAME="Debug">
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="doxygen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="pcl_recognition" TARGET_NAME="doxygen" CONFIG_NAME="Debug">
+    <configuration default="false" name="doxygen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="object_recognition" TARGET_NAME="doxygen" CONFIG_NAME="Debug">
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="dynamic_reconfigure_gencfg" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="pcl_recognition" TARGET_NAME="dynamic_reconfigure_gencfg" CONFIG_NAME="Debug">
+    <configuration default="false" name="dynamic_reconfigure_gencfg" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="object_recognition" TARGET_NAME="dynamic_reconfigure_gencfg" CONFIG_NAME="Debug">
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="dynamic_reconfigure_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="pcl_recognition" TARGET_NAME="dynamic_reconfigure_generate_messages_cpp" CONFIG_NAME="Debug">
+    <configuration default="false" name="dynamic_reconfigure_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="object_recognition" TARGET_NAME="dynamic_reconfigure_generate_messages_cpp" CONFIG_NAME="Debug">
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="dynamic_reconfigure_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="pcl_recognition" TARGET_NAME="dynamic_reconfigure_generate_messages_lisp" CONFIG_NAME="Debug">
+    <configuration default="false" name="dynamic_reconfigure_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="object_recognition" TARGET_NAME="dynamic_reconfigure_generate_messages_lisp" CONFIG_NAME="Debug">
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="dynamic_reconfigure_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="pcl_recognition" TARGET_NAME="dynamic_reconfigure_generate_messages_py" CONFIG_NAME="Debug">
+    <configuration default="false" name="dynamic_reconfigure_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="object_recognition" TARGET_NAME="dynamic_reconfigure_generate_messages_py" CONFIG_NAME="Debug">
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="geometry_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="pcl_recognition" TARGET_NAME="geometry_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
+    <configuration default="false" name="geometry_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="object_recognition" TARGET_NAME="geometry_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="geometry_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="pcl_recognition" TARGET_NAME="geometry_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
+    <configuration default="false" name="geometry_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="object_recognition" TARGET_NAME="geometry_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="geometry_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="pcl_recognition" TARGET_NAME="geometry_msgs_generate_messages_py" CONFIG_NAME="Debug">
+    <configuration default="false" name="geometry_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="object_recognition" TARGET_NAME="geometry_msgs_generate_messages_py" CONFIG_NAME="Debug">
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="nodelet_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="pcl_recognition" TARGET_NAME="nodelet_generate_messages_cpp" CONFIG_NAME="Debug">
+    <configuration default="false" name="nodelet_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="object_recognition" TARGET_NAME="nodelet_generate_messages_cpp" CONFIG_NAME="Debug">
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="nodelet_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="pcl_recognition" TARGET_NAME="nodelet_generate_messages_lisp" CONFIG_NAME="Debug">
+    <configuration default="false" name="nodelet_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="object_recognition" TARGET_NAME="nodelet_generate_messages_lisp" CONFIG_NAME="Debug">
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="nodelet_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="pcl_recognition" TARGET_NAME="nodelet_generate_messages_py" CONFIG_NAME="Debug">
+    <configuration default="false" name="nodelet_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="object_recognition" TARGET_NAME="nodelet_generate_messages_py" CONFIG_NAME="Debug">
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="pcl_basic" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="pcl_recognition" TARGET_NAME="pcl_basic" CONFIG_NAME="Debug">
+    <configuration default="false" name="pcl_basic" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="object_recognition" TARGET_NAME="pcl_basic" CONFIG_NAME="Debug">
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="pcl_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="pcl_recognition" TARGET_NAME="pcl_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
+    <configuration default="false" name="pcl_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="object_recognition" TARGET_NAME="pcl_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="pcl_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="pcl_recognition" TARGET_NAME="pcl_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
+    <configuration default="false" name="pcl_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="object_recognition" TARGET_NAME="pcl_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="pcl_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="pcl_recognition" TARGET_NAME="pcl_msgs_generate_messages_py" CONFIG_NAME="Debug">
+    <configuration default="false" name="pcl_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="object_recognition" TARGET_NAME="pcl_msgs_generate_messages_py" CONFIG_NAME="Debug">
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="pcl_recognition" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="pcl_recognition" TARGET_NAME="pcl_recognition" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="pcl_recognition" RUN_TARGET_NAME="pcl_recognition">
+    <configuration default="false" name="object_recognition" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="object_recognition" TARGET_NAME="object_recognition" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="object_recognition" RUN_TARGET_NAME="object_recognition">
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="pcl_recognition_package" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="pcl_recognition" TARGET_NAME="pcl_recognition_package" CONFIG_NAME="Debug">
+    <configuration default="false" name="object_recognition_package" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="object_recognition" TARGET_NAME="object_recognition_package" CONFIG_NAME="Debug">
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="pcl_ros_gencfg" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="pcl_recognition" TARGET_NAME="pcl_ros_gencfg" CONFIG_NAME="Debug">
+    <configuration default="false" name="pcl_ros_gencfg" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="object_recognition" TARGET_NAME="pcl_ros_gencfg" CONFIG_NAME="Debug">
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="roscpp_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="pcl_recognition" TARGET_NAME="roscpp_generate_messages_cpp" CONFIG_NAME="Debug">
+    <configuration default="false" name="roscpp_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="object_recognition" TARGET_NAME="roscpp_generate_messages_cpp" CONFIG_NAME="Debug">
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="roscpp_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="pcl_recognition" TARGET_NAME="roscpp_generate_messages_lisp" CONFIG_NAME="Debug">
+    <configuration default="false" name="roscpp_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="object_recognition" TARGET_NAME="roscpp_generate_messages_lisp" CONFIG_NAME="Debug">
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="roscpp_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="pcl_recognition" TARGET_NAME="roscpp_generate_messages_py" CONFIG_NAME="Debug">
+    <configuration default="false" name="roscpp_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="object_recognition" TARGET_NAME="roscpp_generate_messages_py" CONFIG_NAME="Debug">
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="rosgraph_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="pcl_recognition" TARGET_NAME="rosgraph_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
+    <configuration default="false" name="rosgraph_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="object_recognition" TARGET_NAME="rosgraph_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="rosgraph_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="pcl_recognition" TARGET_NAME="rosgraph_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
+    <configuration default="false" name="rosgraph_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="object_recognition" TARGET_NAME="rosgraph_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="rosgraph_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="pcl_recognition" TARGET_NAME="rosgraph_msgs_generate_messages_py" CONFIG_NAME="Debug">
+    <configuration default="false" name="rosgraph_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="object_recognition" TARGET_NAME="rosgraph_msgs_generate_messages_py" CONFIG_NAME="Debug">
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="run_tests" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="pcl_recognition" TARGET_NAME="run_tests" CONFIG_NAME="Debug">
+    <configuration default="false" name="run_tests" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="object_recognition" TARGET_NAME="run_tests" CONFIG_NAME="Debug">
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="sensor_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="pcl_recognition" TARGET_NAME="sensor_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
+    <configuration default="false" name="sensor_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="object_recognition" TARGET_NAME="sensor_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="sensor_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="pcl_recognition" TARGET_NAME="sensor_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
+    <configuration default="false" name="sensor_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="object_recognition" TARGET_NAME="sensor_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="sensor_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="pcl_recognition" TARGET_NAME="sensor_msgs_generate_messages_py" CONFIG_NAME="Debug">
+    <configuration default="false" name="sensor_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="object_recognition" TARGET_NAME="sensor_msgs_generate_messages_py" CONFIG_NAME="Debug">
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="std_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="pcl_recognition" TARGET_NAME="std_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
+    <configuration default="false" name="std_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="object_recognition" TARGET_NAME="std_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="std_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="pcl_recognition" TARGET_NAME="std_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
+    <configuration default="false" name="std_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="object_recognition" TARGET_NAME="std_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="std_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="pcl_recognition" TARGET_NAME="std_msgs_generate_messages_py" CONFIG_NAME="Debug">
+    <configuration default="false" name="std_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="object_recognition" TARGET_NAME="std_msgs_generate_messages_py" CONFIG_NAME="Debug">
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="tests" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="pcl_recognition" TARGET_NAME="tests" CONFIG_NAME="Debug">
+    <configuration default="false" name="tests" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="object_recognition" TARGET_NAME="tests" CONFIG_NAME="Debug">
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="tf2_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="pcl_recognition" TARGET_NAME="tf2_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
+    <configuration default="false" name="tf2_msgs_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="object_recognition" TARGET_NAME="tf2_msgs_generate_messages_cpp" CONFIG_NAME="Debug">
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="tf2_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="pcl_recognition" TARGET_NAME="tf2_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
+    <configuration default="false" name="tf2_msgs_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="object_recognition" TARGET_NAME="tf2_msgs_generate_messages_lisp" CONFIG_NAME="Debug">
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="tf2_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="pcl_recognition" TARGET_NAME="tf2_msgs_generate_messages_py" CONFIG_NAME="Debug">
+    <configuration default="false" name="tf2_msgs_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="object_recognition" TARGET_NAME="tf2_msgs_generate_messages_py" CONFIG_NAME="Debug">
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="tf_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="pcl_recognition" TARGET_NAME="tf_generate_messages_cpp" CONFIG_NAME="Debug">
+    <configuration default="false" name="tf_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="object_recognition" TARGET_NAME="tf_generate_messages_cpp" CONFIG_NAME="Debug">
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="tf_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="pcl_recognition" TARGET_NAME="tf_generate_messages_lisp" CONFIG_NAME="Debug">
+    <configuration default="false" name="tf_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="object_recognition" TARGET_NAME="tf_generate_messages_lisp" CONFIG_NAME="Debug">
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="tf_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="pcl_recognition" TARGET_NAME="tf_generate_messages_py" CONFIG_NAME="Debug">
+    <configuration default="false" name="tf_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="object_recognition" TARGET_NAME="tf_generate_messages_py" CONFIG_NAME="Debug">
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="topic_tools_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="pcl_recognition" TARGET_NAME="topic_tools_generate_messages_cpp" CONFIG_NAME="Debug">
+    <configuration default="false" name="topic_tools_generate_messages_cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="object_recognition" TARGET_NAME="topic_tools_generate_messages_cpp" CONFIG_NAME="Debug">
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="topic_tools_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="pcl_recognition" TARGET_NAME="topic_tools_generate_messages_lisp" CONFIG_NAME="Debug">
+    <configuration default="false" name="topic_tools_generate_messages_lisp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="object_recognition" TARGET_NAME="topic_tools_generate_messages_lisp" CONFIG_NAME="Debug">
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="topic_tools_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="pcl_recognition" TARGET_NAME="topic_tools_generate_messages_py" CONFIG_NAME="Debug">
+    <configuration default="false" name="topic_tools_generate_messages_py" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="object_recognition" TARGET_NAME="topic_tools_generate_messages_py" CONFIG_NAME="Debug">
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="gtest" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="pcl_recognition" TARGET_NAME="gtest" CONFIG_NAME="Debug">
+    <configuration default="false" name="gtest" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="object_recognition" TARGET_NAME="gtest" CONFIG_NAME="Debug">
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="gtest_main" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="pcl_recognition" TARGET_NAME="gtest_main" CONFIG_NAME="Debug">
+    <configuration default="false" name="gtest_main" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="object_recognition" TARGET_NAME="gtest_main" CONFIG_NAME="Debug">
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="recognition_test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="pcl_recognition" TARGET_NAME="recognition_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="pcl_recognition" RUN_TARGET_NAME="recognition_test">
+    <configuration default="false" name="recognition_test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="object_recognition" TARGET_NAME="recognition_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="object_recognition" RUN_TARGET_NAME="recognition_test">
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="cluster_extraction" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="pcl_recognition" TARGET_NAME="cluster_extraction" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="pcl_recognition" RUN_TARGET_NAME="cluster_extraction">
+    <configuration default="false" name="cluster_extraction" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="object_recognition" TARGET_NAME="cluster_extraction" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="object_recognition" RUN_TARGET_NAME="cluster_extraction">
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="find_stool" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="pcl_recognition" TARGET_NAME="find_stool" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="pcl_recognition" RUN_TARGET_NAME="find_stool">
+    <configuration default="false" name="find_stool" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="object_recognition" TARGET_NAME="find_stool" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="object_recognition" RUN_TARGET_NAME="find_stool">
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="pcl_lib" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="pcl_recognition" TARGET_NAME="pcl_lib" CONFIG_NAME="Debug">
+    <configuration default="false" name="pcl_lib" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="object_recognition" TARGET_NAME="pcl_lib" CONFIG_NAME="Debug">
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="implicit_shape_model" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="pcl_recognition" TARGET_NAME="implicit_shape_model" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="pcl_recognition" RUN_TARGET_NAME="implicit_shape_model">
+    <configuration default="false" name="implicit_shape_model" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="object_recognition" TARGET_NAME="implicit_shape_model" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="object_recognition" RUN_TARGET_NAME="implicit_shape_model">
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="find_stool_coke" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="pcl_recognition" TARGET_NAME="find_stool_coke" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="pcl_recognition" RUN_TARGET_NAME="find_stool_coke">
+    <configuration default="false" name="find_stool_coke" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="object_recognition" TARGET_NAME="find_stool_coke" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="object_recognition" RUN_TARGET_NAME="find_stool_coke">
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="global_hypothesis_verification" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="pcl_recognition" TARGET_NAME="global_hypothesis_verification" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="pcl_recognition" RUN_TARGET_NAME="global_hypothesis_verification">
+    <configuration default="false" name="global_hypothesis_verification" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="object_recognition" TARGET_NAME="global_hypothesis_verification" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="object_recognition" RUN_TARGET_NAME="global_hypothesis_verification">
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="icp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="pcl_recognition" TARGET_NAME="icp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="pcl_recognition" RUN_TARGET_NAME="icp">
+    <configuration default="false" name="icp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="object_recognition" TARGET_NAME="icp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="object_recognition" RUN_TARGET_NAME="icp">
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="pcd_edit_tool" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="pcl_recognition" TARGET_NAME="pcd_edit_tool" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="pcl_recognition" RUN_TARGET_NAME="pcd_edit_tool">
+    <configuration default="false" name="pcd_edit_tool" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="object_recognition" TARGET_NAME="pcd_edit_tool" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="object_recognition" RUN_TARGET_NAME="pcd_edit_tool">
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="object_recognizer" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="pcl_recognition" TARGET_NAME="object_recognizer" CONFIG_NAME="Debug">
+    <configuration default="false" name="object_recognizer" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="object_recognition" TARGET_NAME="object_recognizer" CONFIG_NAME="Debug">
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="correspondence_grouping" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="pcl_recognition" TARGET_NAME="correspondence_grouping" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="pcl_recognition" RUN_TARGET_NAME="correspondence_grouping">
+    <configuration default="false" name="correspondence_grouping" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="object_recognition" TARGET_NAME="correspondence_grouping" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="object_recognition" RUN_TARGET_NAME="correspondence_grouping">
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="object_recognize_main" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="pcl_recognition" TARGET_NAME="object_recognize_main" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="pcl_recognition" RUN_TARGET_NAME="object_recognize_main">
+    <configuration default="false" name="object_recognize_main" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="object_recognition" TARGET_NAME="object_recognize_main" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="object_recognition" RUN_TARGET_NAME="object_recognize_main">
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="object_recognition_kitchen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="pcl_recognition" TARGET_NAME="object_recognition_kitchen" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="pcl_recognition" RUN_TARGET_NAME="object_recognition_kitchen">
+    <configuration default="false" name="object_recognition_kitchen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="object_recognition" TARGET_NAME="object_recognition_kitchen" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="object_recognition" RUN_TARGET_NAME="object_recognition_kitchen">
       <envs />
       <method />
     </configuration>
@@ -689,7 +689,7 @@
       <item index="9" class="java.lang.String" itemvalue="Application.bond_generate_messages_lisp" />
       <item index="10" class="java.lang.String" itemvalue="Application.bond_generate_messages_py" />
       <item index="11" class="java.lang.String" itemvalue="Application.clean_test_results" />
-      <item index="12" class="java.lang.String" itemvalue="Application.clean_test_results_pcl_recognition" />
+      <item index="12" class="java.lang.String" itemvalue="Application.clean_test_results_object_recognition" />
       <item index="13" class="java.lang.String" itemvalue="Application.download_extra_data" />
       <item index="14" class="java.lang.String" itemvalue="Application.doxygen" />
       <item index="15" class="java.lang.String" itemvalue="Application.dynamic_reconfigure_gencfg" />
@@ -706,8 +706,8 @@
       <item index="26" class="java.lang.String" itemvalue="Application.pcl_msgs_generate_messages_cpp" />
       <item index="27" class="java.lang.String" itemvalue="Application.pcl_msgs_generate_messages_lisp" />
       <item index="28" class="java.lang.String" itemvalue="Application.pcl_msgs_generate_messages_py" />
-      <item index="29" class="java.lang.String" itemvalue="Application.pcl_recognition" />
-      <item index="30" class="java.lang.String" itemvalue="Application.pcl_recognition_package" />
+      <item index="29" class="java.lang.String" itemvalue="Application.object_recognition" />
+      <item index="30" class="java.lang.String" itemvalue="Application.object_recognition_package" />
       <item index="31" class="java.lang.String" itemvalue="Application.pcl_ros_gencfg" />
       <item index="32" class="java.lang.String" itemvalue="Application.roscpp_generate_messages_cpp" />
       <item index="33" class="java.lang.String" itemvalue="Application.roscpp_generate_messages_lisp" />
@@ -808,7 +808,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/include/pcl_recognition/pcl_recognition.h">
+    <entry file="file://$PROJECT_DIR$/include/object_recognition/object_recognition.h">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="74" column="132" selection-start-line="74" selection-start-column="132" selection-end-line="74" selection-end-column="132" />
@@ -858,7 +858,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/include/pcl_recognition/pcl_recognition.h">
+    <entry file="file://$PROJECT_DIR$/include/object_recognition/object_recognition.h">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
@@ -1089,7 +1089,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/include/pcl_recognition/pcl_recognition.h">
+    <entry file="file://$PROJECT_DIR$/include/object_recognition/object_recognition.h">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="55" column="1" selection-start-line="55" selection-start-column="1" selection-end-line="55" selection-end-column="1" />
@@ -1144,7 +1144,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/include/pcl_recognition/object_recognizer.h">
+    <entry file="file://$PROJECT_DIR$/include/object_recognition/object_recognizer.h">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
