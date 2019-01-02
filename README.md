@@ -14,7 +14,7 @@ In **camera** / **driver**, check the box **depth_registration**.
 
 Since now, the most fast and accurate way to recognize object is using ORK which is a mesh based recognition, see (*http://wg-perception.github.io/object_recognition_core/*).
 
-####Run it by
+#### Run it by
 `rosrun object_recognition_core object_add.py -n "coke " -d "A empty coke can" --commit`
 
 ``rosrun object_recognition_core mesh_add.py [the object id that previous command returned] `rospack find object_recognition`/data/coke.stl --commit``
@@ -28,7 +28,7 @@ This packages contains multi approaches from PCL to recognize objects in a Kinec
 ### Correspondence Grouping 
 (*http://pointclouds.org/documentation/tutorials/correspondence_grouping.php*)
 
-####Run it by 
+#### Run it by 
 
 `roscd object_recognition/pcd`
 
@@ -43,7 +43,7 @@ For test 2:
 ### Implicit Shape Model 
 (*http://pointclouds.org/documentation/tutorials/implicit_shape_model.php*)
 
-####Run it by
+#### Run it by
 
 `roscd object_recognition`
 
@@ -52,7 +52,7 @@ For test 2:
 ### Hypothesis Verification 
 (*http://pointclouds.org/documentation/tutorials/global_hypothesis_verification.php*)
 
-####Run it by
+#### Run it by
 
 `roscd object_recognition/pcd`
 
@@ -68,7 +68,7 @@ For test 2:
 ### Library for recognition
 From all the PCL Algorithms, the best one is Correspondence Grouping using Hough, a library is build with that algorithm, see **object_recognizer.cpp**, for usage see **object_recognize_main.cpp**
 
-####Run it by
+#### Run it by
 
 For test 1:
 
@@ -95,7 +95,7 @@ For all approaches in PCL library, it all requires pcd files as original input, 
 
 ## Calculate normal, centroid of a plane
 
-####Run it by
+#### Run it by
 
 `roslaunch object_recognition find_stool_coke.launch`
 
